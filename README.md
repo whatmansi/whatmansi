@@ -1,7 +1,10 @@
 ### Hi there 👋
-This is Mansi Chauhan, a final year engineering student. 
+This is Mansi Chauhan, a final year ECE undergrad. 
 
-If you have anything interesting to say then say it, else please get lost, I don't have time & energy to deal with the bullshit. Thank You.
+
+#### If you have anything interesting to say then say it, else please get lost, I don't have time & energy to deal with the bullshit.
+It's quite rude but I can't help, it's the truth. Thank You.
+
 
 - 🔭 Probably going to work on MERN stack.
 - 🌱 I’m currently learning Data Structures and Algorithms. 
