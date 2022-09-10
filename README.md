@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Mansi Chauhan, a final year engineering student. 
 
-- 🔭 I’m currently working on MERN stack.
+- 🔭 Probably going to work on MERN stack.
 - 🌱 I’m currently learning Data Structures and Algorithms. 
 - 👯 I’m looking to collaborate on projects on C++ & MERN Stack. 
 - 🤔 I’m looking for help with clearing interviews. 
